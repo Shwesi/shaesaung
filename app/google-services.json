@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "429965453334",
+    "firebase_url": "https://kyipa-2a596.firebaseio.com",
+    "project_id": "kyipa-2a596",
+    "storage_bucket": "kyipa-2a596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429965453334:android:cc78ee68f48fdcd2",
+        "android_client_info": {
+          "package_name": "com.kyipa.myanmar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429965453334-s985co39408o0jm5nrqkd5fhk9su2k7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAudhdVT4MTIG5Q7oIJ2FyRSt55tewzr3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429965453334-s985co39408o0jm5nrqkd5fhk9su2k7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
